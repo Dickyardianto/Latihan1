@@ -3,3 +3,10 @@ Hallo ini saya komputer
 Hay saya kevin
 Hallo
 Holla
+Hay
+
+
+Edit file
+Commit
+Pull
+Push
