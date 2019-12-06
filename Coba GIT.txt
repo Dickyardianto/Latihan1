@@ -12,3 +12,5 @@ Pull
 Push
 
 Hallo saya dicky ardianto
+
+Hallo saya ana
